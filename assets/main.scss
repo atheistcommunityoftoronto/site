@@ -1,0 +1,81 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+h1.centered {
+  margin: 2em;
+  text-align: center;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.site-header {
+  border: none;
+}
+.site-header .wrapper {
+  max-width: 740px;
+  background: url('/assets/header-background.jpg') no-repeat scroll bottom 0 right -80px / 50% transparent;
+}
+.site-title {
+  text-decoration: none;
+  text-shadow: 0.05em 0.05em 0 white, 0.1em 0.1em 0 rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+  font-size: 36pt;
+  float: none;
+}
+.site-title:hover {
+  text-decoration: none;
+  color: grey;
+}
+.site-title span {
+  display: inline-block;
+}
+.site-title span:first-child::first-letter {
+  color: red;
+}
+.site-subtitle {
+  display: block;
+}
+.site-nav {
+  border-radius: 0;
+  background: none;
+  float: none;
+}
+
+@media screen and (max-width: 600px) {
+  .site-header .wrapper {
+    background-size: 80%;
+  }
+  .site-title {
+    color: pink;
+  }
+  .site-nav {
+    position: relative;
+    top: 0; right: 0;
+    margin: 0.8em 0;
+    border: none;
+    text-align: left;
+    line-height: 2em;
+  }
+  .site-nav label[for="nav-trigger"] {
+    float: none;
+    width: auto;
+  }
+  .site-nav .menu-icon {
+    float: none;
+    display: inline;
+  }
+  .menu-icon svg {
+    padding-right: 0.5em;
+  }
+}

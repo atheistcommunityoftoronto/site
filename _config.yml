@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: Atheist Community of Toronto
+subtitle: A friendly group for non-believers
+description: >- 
+  Atheist Community of Toronto - A friendly group for non-believers.
+
+markdown: kramdown
+theme: minima
+permalink: pretty
