@@ -11,7 +11,7 @@ title: Links
 
 ## Other Secular Toronto Groups:
 - [Center for Inquiry Canada, Toronto Branch](http://www.cficanada.ca/author/cfi-toronto/)
-- [Sunday Assemby Toronto](https://www.facebook.com/TheSundayAssemblyToronto)
+- [Sunday Assembly Toronto](https://www.facebook.com/TheSundayAssemblyToronto)
 - [Humanist Association of Toronto](http://humanisttoronto.blogspot.ca/)
 
 ## Blogs and Internet Resources:
