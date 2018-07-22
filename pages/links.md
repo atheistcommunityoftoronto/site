@@ -5,7 +5,7 @@ navorder: 3
 title: Links
 ---
 
-## Our Social and Community Resource:
+## Our Social and Community Resources:
 - Share links and discussions on our [Facebook group](/facebook)
 - Join us in-person at our [Meetup events](/meetup)
 
